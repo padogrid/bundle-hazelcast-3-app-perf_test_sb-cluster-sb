@@ -11,6 +11,8 @@ This bundle provides scripts, configuration files, and apps for creating a netwo
 
 ## Installing Bundle
 
+✏️  *Please see [Installing Bundles](https://github.com/padogrid/padogrid/wiki/Installing-Bundles) for instructions on how to install bundles and their required software.*
+
 ```console
 install_bundle -download bundle-hazelcast-3-app-perf_test_sb-cluster-sb
 ```
